@@ -1,0 +1,8 @@
+export const ADMIN_SIGNIN = 'ADMIN_SIGNIN'
+export const ADMIN_SIGNOUT = 'ADMIN_SIGNOUT'
+export const ADMIN_REG = 'ADMIN_REG'
+export const MEMBER_SIGNIN = 'MEMBER_SIGNIN'
+export const MEMBER_SIGNOUT = 'MEMBER_SIGNOUT'
+export const MEMBER_REG = 'MEMBER_REG'
+export const SHOW_PROGRESS = 'SHOW_PROGRESS'
+export const HEAD_LINE = 'HEAD_LINE'
